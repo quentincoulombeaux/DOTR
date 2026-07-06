@@ -1,0 +1,7 @@
+path: C:\ESEO\E5e\projet_industriel\pi\Repositery_GitHub\dataset  # dataset root dir
+train: C:\ESEO\E5e\projet_industriel\pi\Repositery_GitHub\dataset\hoop_dataset\images\train  # train images (relative to 'path')
+val: C:\ESEO\E5e\projet_industriel\pi\Repositery_GitHub\dataset\hoop_dataset\images\train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: hoop
